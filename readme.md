@@ -1,1 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenglh&show_icons=true&title_color=333&icon_color=fac926&text_color=777&bg_color=f8f8f8" alt="fenglh's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenglh&amp;show_icons=true&amp;title_color=805AD5&amp;icon_color=805AD5&amp;text_color=718096&amp;bg_color=ffffff&amp;hide_title=true" alt="fenglh's Github Stats">
+
+
